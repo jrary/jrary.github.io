@@ -1,10 +1,11 @@
-# Front Matter
+# 첫 번째 글
 ---
-date: 2021-09-20
-title: "소개"
-categories: blog
-tags: information
-# 목차
-toc: true
-toc_sticky: true
+나름대로 열심히 시도해보았으나 아직 잘 모르겠다...
+앞으로 깃허브 블로그에 익숙해지기 위해 노력해야지
+# 목표
+* 카테고리 설정
+* 검색 유입
+* 방문자수
+* 꾸준한 업로드
+* 이전 글 백업
 ---
